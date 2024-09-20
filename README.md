@@ -1,13 +1,6 @@
-# Librus
-Aplikacja librus
+# Biblioteka
+Aplikacja dla biblioteki
 ## Działanie
-<h4>1. Logowanie </h4>
-<image src=https://github.com/user-attachments/assets/83815c99-ebc4-4c94-84d1-483c09594d10 width=450></image>
-<h4>2. Oceny z perspektywy ucznia </h4>
-<image src=https://github.com/user-attachments/assets/967b6705-a366-4c91-9c8a-4ed1d970ed8d width=450></image>
-<h4>3. Oceny z perspektywy nauczyciela </h4>
-<image src=https://github.com/user-attachments/assets/d6435135-ff3e-49c9-8925-2f790611e903 width=450></image>
-<image src=https://github.com/user-attachments/assets/0b4cadaf-4588-4148-90ca-ab13383da2e9 width=450></image>
-
-
-
+<image src=https://github.com/user-attachments/assets/0daa9360-cc23-40e5-978c-6535d7f89aea width=450></image>
+<image src=https://github.com/user-attachments/assets/78b23bff-39a3-401f-9fef-f5488735816d width=450></image>
+<image src=https://github.com/user-attachments/assets/2af016a8-cece-4743-9b24-ed11273532ea width=450></image>
